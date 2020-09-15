@@ -1,3 +1,9 @@
+'''
+Question : Given a string s, find the length of the longest substring without repeating characters.
+
+Link : https://leetcode.com/problems/longest-substring-without-repeating-characters/
+'''
+
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         memo = {}
@@ -16,8 +22,4 @@ class Solution:
             start += 1
             
         return maxlength
-                
-
-
-            
-        
+                        
