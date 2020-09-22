@@ -8,11 +8,6 @@ Link : https://leetcode.com/problems/two-sum/
 
 class Solution(object):
     def twoSum(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
         Mapped = {} 
         for i , n in enumerate(nums):
             dif = target - n
