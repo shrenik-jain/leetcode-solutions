@@ -56,10 +56,8 @@ A List Leetcode **Problem** and **Solutions**
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Java](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Java/StocksWithCooldown.java) | Medium |
 | 312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [Java](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Java/BurstBalloons.java) | Hard |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [Python](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Python/CoinChange.py) | Medium |
-| 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Java](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Java/BurstBalloons.java) | Easy |
+| 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Java](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Java/CountingBits.java) | Easy |
 | 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | [Java](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Java/LexicographicalNumbers.java) | Medium |
-| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](https://github.com/qiyuangong/leetcode/blob/master/java/387_First_Unique_Character_in_a_String.java) | Easy |
-
-
-
-Continually adding more solutions
+| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Java/FirstUniqueCharacterInString.java) | Easy |
+| 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/) | [Java](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Java/LongestPalindrome.java) | Easy |
+| 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Java](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Java/PartitionEqualSubsetSum.java) | Medium |
