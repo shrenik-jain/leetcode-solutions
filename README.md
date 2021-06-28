@@ -47,6 +47,19 @@ A List Leetcode **Problem** and **Solutions**
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Java](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Java/NumberOf1Bits.java) | Easy |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Java](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Java/NumberOfIslands.java) | Medium |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Java/ReverseLinkedList.java) | Easy |
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Java](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Java/KthLargestElement.java) | Medium|
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Python/ContainsDuplicates.py) | Easy |
+| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Java](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Java/ReverseLinkedList.java) | Easy |
+| 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Python](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Python/MajorityElement2.py) | Medium |
+| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Java](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Java/ImplementQueueUsingStacks.java) | Easy |
+| 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Java](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Java/LongestIncreasingSubsequence.java) | Medium |
+| 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Java](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Java/StocksWithCooldown.java) | Medium |
+| 312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [Java](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Java/BurstBalloons.java) | Hard |
+| 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [Python](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Python/CoinChange.py) | Medium |
+| 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Java](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Java/BurstBalloons.java) | Easy |
+| 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | [Java](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Java/LexicographicalNumbers.java) | Medium |
+| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](https://github.com/qiyuangong/leetcode/blob/master/java/387_First_Unique_Character_in_a_String.java) | Easy |
+
 
 
 Continually adding more solutions
