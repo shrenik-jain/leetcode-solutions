@@ -3,7 +3,7 @@
 [![Travis](https://img.shields.io/badge/language-Python-red.svg)]()
 [![Travis](https://img.shields.io/badge/language-Java-blue.svg)]()
 
-A List LeetCode Problem Solutions  
+A List Leetcode **Problem** and **Solutions**  
 
 
 | # | Title | Solution | Difficulty |
@@ -17,7 +17,7 @@ A List LeetCode Problem Solutions
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Python/LongestCommonPrefix.py) | Easy |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Java](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Java/RemoveNthNodeFromEndOfList.java) | Medium |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Java/ValidParentheses.java) | Easy |
-| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Java](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Java/MergeKSortedLists.java) | Easy |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Java](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Java/MergeTwoSortedLists.java) | Easy |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Java/MergeKSortedLists.java) | Hard |
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Java](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Java/ReverseNodesInKGroup.java) | Hard |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Python/RemoveDuplicatesFromSortedArray.py) | Easy |
@@ -44,6 +44,9 @@ A List LeetCode Problem Solutions
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Java](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Java/IntersectionOfTwoLinkedLists.java) | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Python/MajorityElement.py) | Easy |
 | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [Python](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Python/Stocks4.py) | Hard |
-| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Java](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Python/MajorityElement.py) | Easy |
+| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Java](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Java/NumberOf1Bits.java) | Easy |
+| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Java](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Java/NumberOfIslands.java) | Medium |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Java/ReverseLinkedList.java) | Easy |
 
 
+Continually adding more solutions
