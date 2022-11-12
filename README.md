@@ -46,6 +46,7 @@ A List Leetcode **Problem** and **Solutions**
 | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [Python](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Python/Stocks4.py) | Hard |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Java](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Java/NumberOf1Bits.java) | Easy |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Java](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Java/NumberOfIslands.java) | Medium |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/description/) | [Python](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Python/HappyNumber.py) | Easy |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Java/ReverseLinkedList.java) | Easy |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Java](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Java/KthLargestElement.java) | Medium|
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Python](https://github.com/shrenik-jain/Leet-Code-Solutions/blob/master/Python/ContainsDuplicates.py) | Easy |
