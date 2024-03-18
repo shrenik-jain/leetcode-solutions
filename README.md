@@ -1,5 +1,3 @@
-Sure, here's a README file for your LeetCode Solutions repository:
-
 # LeetCode Solutions
 
 This repository contains solutions to various LeetCode problems implemented in different programming languages, primarily Python and Java.
